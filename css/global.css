@@ -29,4 +29,5 @@ img {
     text-transform: uppercase;
     word-break: break-all;
     max-width: 4ch;
+    /*cada linha com até 4 caracter q tem o tamanho 0*/
 }
